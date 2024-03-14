@@ -1,11 +1,12 @@
-using Gpticelular.Models;
+using Gpticelular.Modelos.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Gpticelular.Controllers
+namespace Gpticelular.Areas.Inventario.Controllers
 {
+    [Area("Inventario")]
     public class HomeController : Controller
-    {
+    {    
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)

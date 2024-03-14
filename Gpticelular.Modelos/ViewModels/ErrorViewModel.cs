@@ -1,4 +1,4 @@
-namespace Gpticelular.Models
+namespace Gpticelular.Modelos.ViewModels
 {
     public class ErrorViewModel
     {

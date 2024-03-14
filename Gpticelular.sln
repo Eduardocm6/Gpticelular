@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gpticelular", "Gpticelular\Gpticelular.csproj", "{3631AE30-211D-4760-88A9-71829AF9DCCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gpticelular.AccesoDatos", "Gpticelular.AccesoDatos\Gpticelular.AccesoDatos.csproj", "{C6D7D51C-380A-446D-ACAB-31B51FA6ECA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gpticelular.Modelos", "Gpticelular.Modelos\Gpticelular.Modelos.csproj", "{FFB52DA1-FAE1-41C7-AB1A-1FAAD1441FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gpticelular.Utilidades", "Gpticelular.Utilidades\Gpticelular.Utilidades.csproj", "{3684E42A-8F64-440E-8C39-BF896F90BB03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{3631AE30-211D-4760-88A9-71829AF9DCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3631AE30-211D-4760-88A9-71829AF9DCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3631AE30-211D-4760-88A9-71829AF9DCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D7D51C-380A-446D-ACAB-31B51FA6ECA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D7D51C-380A-446D-ACAB-31B51FA6ECA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D7D51C-380A-446D-ACAB-31B51FA6ECA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D7D51C-380A-446D-ACAB-31B51FA6ECA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB52DA1-FAE1-41C7-AB1A-1FAAD1441FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB52DA1-FAE1-41C7-AB1A-1FAAD1441FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB52DA1-FAE1-41C7-AB1A-1FAAD1441FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB52DA1-FAE1-41C7-AB1A-1FAAD1441FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3684E42A-8F64-440E-8C39-BF896F90BB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3684E42A-8F64-440E-8C39-BF896F90BB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3684E42A-8F64-440E-8C39-BF896F90BB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3684E42A-8F64-440E-8C39-BF896F90BB03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
